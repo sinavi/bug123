@@ -1,1 +1,1 @@
-Read me for CoolProject
+Read me for CoolProject.
